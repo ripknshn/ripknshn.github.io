@@ -1,7 +1,7 @@
 # Welcome to Kenshin's GitHub Pages
 _owned by Kenshin Reema J. Negro_
 
-![Image](https://user-images.githubusercontent.com/99950580/159415219-1d08eaa4-73a8-41c0-93ee-0f1aa9514a89.png)
+![Image](https://user-images.githubusercontent.com/99950580/159415371-c8bea2df-4ac0-47c4-9678-eaef81c476a6.jpg)
 
 
 ## This is a place where you will know what tasks I do everyday.
