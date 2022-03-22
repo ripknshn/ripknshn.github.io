@@ -1,38 +1,30 @@
 # Welcome to Kenshin's GitHub Pages
 _owned by Kenshin Reema J. Negro_
 
-You can use the [editor on GitHub](https://github.com/ripknshn/ripknshn.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## This is a place where you will know what tasks I do everyday.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Monday, Wednesday, Friday
 
-### Markdown
+- Wake-up Early
+- Eat Breakfast
+- Online Class
+- Do a little LMS activities
+- Rest
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tuesday, Thursday, Saturday
 
-```markdown
-Syntax highlighted code block
+- Wake-up early
+- Eat Breakfast
+- Clean the house and/or room
+- Do LMS activities
+- Play Valorant
+- Rest
 
-# Header 1
-## Header 2
-### Header 3
+### Sunday
+**On a Sunday, I usually just spend time with my family or it's my rest day.**
 
-- Bulleted
-- List
+## Here are some musics I listen to while doing tasks:
+[Music 1](https://youtu.be/nYTx3QsyxqQ) 
+[Music 2](https://youtu.be/ASZESgAZoos)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ripknshn/ripknshn.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Thank You for Visiting my site! <33
